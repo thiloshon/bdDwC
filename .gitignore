@@ -1,0 +1,4 @@
+#R studio folders and files
+*.Rproj
+.Rproj.user/
+.Rhistory
