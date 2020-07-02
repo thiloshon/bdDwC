@@ -2,3 +2,6 @@
 ^codecov\.yml$
 ^appveyor\.yml$
 ^cran-comments\.md$
+^\.ccache$
+^\.github$
+^tic\.R$
