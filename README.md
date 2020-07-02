@@ -4,6 +4,7 @@
 [![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/bdDwC)](https://cran.r-project.org/package=bdDwC) 
 [![CRAN_Download_Badge](https://cranlogs.r-pkg.org/badges/grand-total/bdDwC)](https://cran.r-project.org/package=bdDwC) 
 
+![tic](https://github.com/sunn-e/bdDwC/workflows/tic/badge.svg?branch=tic)
 
 # bdDwC
 
